@@ -7,4 +7,4 @@ pandas_datareader==0.10.0
 yfinance==0.2.37
 keras==3.1.1
 Joblib==1.4.2
-Pickle==4.0 
+
