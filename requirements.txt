@@ -7,5 +7,3 @@ pandas_datareader==0.10.0
 streamlit==1.32.0
 yfinance==0.2.37
 keras==3.1.1
-https://stock-price-predition-dbxvhesya5ghb7cenezjnv.streamlit.app/
-https://stock-price-predition-dbxvhesya5ghb7cenezjnv.streamlit.app/
